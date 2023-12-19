@@ -42,4 +42,5 @@ public class HashSets<E> implements Set<E>, Iterable<E> {
     public boolean isEmpty() {
         return map.isEmpty();
     }
+
 }
